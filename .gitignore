@@ -1,3 +1,4 @@
 .DS_Store
 MNIST_data/*
 .ipynb_checkpoints/
+*.jpg
