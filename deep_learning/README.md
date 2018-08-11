@@ -7,8 +7,8 @@ https://ja.scribd.com/document/352434799/Keras-Cheat-Sheet-Python
 https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
 
 # ToDO
-- [ ] NN
-- [ ] CNN
+- [x] NN
+- [x] CNN
 - [ ] RNN(LSTM)
 - [ ] Auto Encoder
 - [ ] Sparse Encoder
