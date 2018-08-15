@@ -11,36 +11,41 @@ https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet
 
 
 # ToDO
-### Regression
+### Regression 
 - [ ] Linear Regression
 - [ ] Multiple regression
-- [ ] SDC Regression
+- [ ] SGD Regression
+
 - [ ] Elastic Net Lasso
 - [ ] Redge Regression SVR
 - [ ] SVR Ensemble
 
-### classification
+### Classification
+- [x] SGD Classifer
+- [x] Linear SVM
+- [x] kernel approximation
+- [x] Kernel SVM
+- [x] k-Neighbors
+
 - [ ] Decision Tree
 - [ ] Random Forest
 - [ ] Gradient Boosting Tree
-- [ ] Linear SVM
-- [ ] Kernel SVM
-- [ ] Logistic Regression
-- [ ] Naive Bayes
-- [ ] SDG Classifer
-- [ ] SVC Ensemble
 
-### clustering 
+- [ ] Naive Bayes
+
+### Clustering
 - [ ] k-means
 - [ ] k-modes
 - [ ] Gausian Mixture model
 - [ ] DBSCAN
+
 - [ ] Mean Shift VBGMM
 - [ ] MiniBatch k-means
 - [ ] Spectral Clustering GMM
 
 ### Dimension Reduction
 - [ ] Randomized PCA 
+
 - [ ] Isomap Spectral Embeding
 - [ ] kernel approximation
 - [ ] LLE
