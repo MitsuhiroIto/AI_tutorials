@@ -27,9 +27,9 @@ https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet
 - [x] Kernel SVM
 - [x] k-Neighbors
 
-- [ ] Decision Tree
-- [ ] Random Forest
-- [ ] Gradient Boosting Tree
+- [x] Decision Tree
+- [x] Random Forest
+- [x] Gradient Boosting Tree
 
 - [ ] Naive Bayes
 
