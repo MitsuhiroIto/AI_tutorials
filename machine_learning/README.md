@@ -12,13 +12,14 @@ https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet
 
 # ToDO
 ### Regression 
-- [ ] Linear Regression
-- [ ] Multiple regression
-- [ ] SGD Regression
+- [x] SGD
+- [x] Lasso
+- [x] Ridge
+- [x] Elastic Net  
+- [x] SVR linear
 
-- [ ] Elastic Net Lasso
-- [ ] Redge Regression SVR
-- [ ] SVR Ensemble
+- [ ] SVR kernel
+- [ ] Ensemble
 
 ### Classification
 - [x] SGD Classifer
