@@ -18,8 +18,8 @@ https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet
 - [x] Elastic Net  
 - [x] SVR linear
 
-- [ ] SVR kernel
-- [ ] Ensemble
+- [x] SVR kernel
+- [x] Ensemble
 
 ### Classification
 - [x] SGD Classifer
