@@ -48,9 +48,10 @@ https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet
 - [x] PCA 
 - [x] Kernel PCA
 
-- [ ] Isomap Spectral Embeding
-- [ ] kernel approximation
-- [ ] LLE
+- [x] Spectral Embeding
+- [x] Isomap
+- [x] LLE
+- [x] t-SNE
 
 ### その他
 - [ ] cross validation
