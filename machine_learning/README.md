@@ -45,7 +45,8 @@ https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet
 - [ ] Spectral Clustering GMM
 
 ### Dimension Reduction
-- [ ] Randomized PCA 
+- [x] PCA 
+- [x] Kernel PCA
 
 - [ ] Isomap Spectral Embeding
 - [ ] kernel approximation
